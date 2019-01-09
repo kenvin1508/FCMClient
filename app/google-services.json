@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015588363734",
+    "firebase_url": "https://myfcm-ccb99.firebaseio.com",
+    "project_id": "myfcm-ccb99",
+    "storage_bucket": "myfcm-ccb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015588363734:android:79a1036facf4a838",
+        "android_client_info": {
+          "package_name": "vn.edu.vtn.fcmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015588363734-q5et62m7dqi1etgk66qhbop9chdac08m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCulRAGrKk8I_hGXcl6-yLfpnAtlRuJlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
